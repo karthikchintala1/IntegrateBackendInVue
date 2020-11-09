@@ -1,0 +1,24 @@
+src/frontend/.DS_Store
+src/frontend/node_modules
+src/frontend/dist
+backend/integration-backend/bin/*
+backend/integration-backend/obj/*
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
