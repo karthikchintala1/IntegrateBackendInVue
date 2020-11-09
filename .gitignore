@@ -1,8 +1,8 @@
 src/frontend/.DS_Store
 src/frontend/node_modules
 src/frontend/dist
-backend/integration-backend/bin/*
-backend/integration-backend/obj/*
+bin/
+obj/
 
 # local env files
 .env.local
